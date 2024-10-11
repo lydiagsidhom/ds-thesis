@@ -9,7 +9,7 @@ This repo has a few subfolders which contain the elements of this project.
 | Folder | Description |
 |-----|-----|
 | `data`  | data from the original analysis in CSV format  |
-| `notebooks`  | Jupyter Notebook files  |
+| `Jupyter notebooks`  | Jupyter Notebook files  |
 | `outputs`  | output data |
 | `images`  | image files used in the Jupyter Notebooks |
 
