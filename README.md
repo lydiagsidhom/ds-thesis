@@ -12,3 +12,16 @@ This repo has a few subfolders which contain the elements of this project.
 | `notebooks`  | Jupyter Notebook files  |
 | `outputs`  | output data |
 | `images`  | image files used in the Jupyter Notebooks |
+
+### Pre-Analysis Plan
+
+The Pre-Analysis Plan contains the following sections:
+
+| Section | Description |
+|-----|-----|
+| Abstract  | an abstract for the project, excl. findings  |
+| Data  | description of the data set |
+| Strategy  | an outline of the steps to take to analyze the data (mostly a description of the code)  |
+| Analysis  | any heuristics or mathematical models to use, and the reasons for their use  |
+| Deliverables  | a description of the deliverable files in the repo |
+| Sources   | list of sources for the data _and any other research_ that I did  |
